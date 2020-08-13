@@ -16,7 +16,7 @@ Meu nome é Jade, tenho 25 anos, estou na área de tecnologia há 2 anos e estud
   
 - 🔭 No momento trabalho com Quality Assurance.
 
-- 📫 How to reach me:
+- 📫 Onde me achar:
    - [Twitter](https://twitter.com/breakthecod3)
    - [Instagram](https://instagram.com/jadednc)
    - [Linkedin](https://www.linkedin.com/in/jade-denice/)
