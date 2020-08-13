@@ -29,5 +29,5 @@ Meu nome é Jade, tenho 25 anos, estou na área de tecnologia há 2 anos e estud
 	- :classical_building: Já tentei fazer faculdade de Turismo;
 	- :hammer: Gosto de fazer manutenções, montar móveis, etc.
 	- :swimmer: Fiz natação por 3 anos (e sinto saudades todos os dias)
-	- :writing_hand::skin-tone-3: Eu escrevo romances nas horas vagas.
+	- :writing_hand: Eu escrevo romances nas horas vagas.
 
