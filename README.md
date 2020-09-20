@@ -2,17 +2,16 @@
 ### Hi there 👋
 
 
-Meu nome é Jade, tenho 25 anos, estou na área de tecnologia há 2 anos e estudo Engenharia da Computação.
+Meu nome é Jade, estou na área de tecnologia há 2 anos e estudo Engenharia da Computação.
 
 - 🌱 No momento estou aprendendo mais sobre **QA** e **Javascript**.
 
 - :heart_eyes: Coisas que mais amo:
    - QA;
    - Javascript;
-   - Vue;
    - Livros;
    - Jogar;
-   - Gatos (tenho 5 gatas lindas).
+   - Gatos.
   
 - 🔭 No momento trabalho com Quality Assurance.
 
