@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 
-Meu nome é Jade, estou na área de tecnologia há 3 anos e estudo Engenharia da Computação.
+Meu nome é Jade, estou na área de tecnologia há 5 anos e formada em Engenharia da Computação.
 
-- 🌱 No momento estou aprendendo mais sobre **Qualidade de Software** e **Javascript**.
+- 🌱 Trabalho na área de Qualidade de Software, estudo desenvolvimento de software e automação.
 
 - :heart_eyes: Algumas coisas que amo:
    - QA;
@@ -13,7 +13,7 @@ Meu nome é Jade, estou na área de tecnologia há 3 anos e estudo Engenharia da
    - Jogar;
    - Gatos.
   
-- 🔭 No momento trabalho com Qualidade de Software.
+- 🔭 Engenheira de Qualidade de Software.
 
 - 📫 Onde me achar:
    - [Twitter](https://twitter.com/breakthecod3)
@@ -28,5 +28,4 @@ Meu nome é Jade, estou na área de tecnologia há 3 anos e estudo Engenharia da
 	- :classical_building: Já tentei fazer faculdade de Turismo, mas a melhor parte era a aula de inglês e informática;
 	- :hammer: Gosto de elétrica/eletrônica, montar móveis, etc.
 	- :swimmer: Fiz natação por 3 anos (e sinto saudades todos os dias)
-	- :writing_hand: Eu escrevo romances lésbicos nas horas vagas.
 
